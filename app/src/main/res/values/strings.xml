@@ -1,0 +1,125 @@
+<resources>
+    <string name="appName">WALLET</string>
+    <string name="slide">SLIDE TO OPEN!</string>
+    <string name="app_name">Team_19</string>
+    <string name="action_settings">Settings</string>
+    <string name="submitNumber">next</string>
+    <string name="nameInput">Enter your name</string>
+    <string name="numberInput">Enter your number</string>
+    <string name="textview1">PLEASE WAIT WHILE WE VERIFY!</string>
+    <string name="internetError">No internet connection.Connect to a network.</string>
+    <string name="status"> </string>
+    <string name="pass">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="registrationerror">ERROR IN REGISTRATION !</string>
+
+    <string name="logout">LOGOUT</string>
+
+
+    <string name="welcome">WELCOME , </string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="getName">ENTER EMAIL -ID AND PASSWORD</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="textview">TextView</string>
+    <string name="getLocation">SET LOCATION</string>
+    <string name="api">AIzaSyA_NcnjwYpU0YG9WPeOST4NL6X8iuDeB0w</string>
+    <string name="confirmLocation">CONFIRM</string>
+    <string name="dispConnecting">CONNECTING...</string>
+    <string name="als">ALS</string>
+    <string name="bls">BLS</string>
+    <string name="patientTransport">PATIENT\nTRANSPORT</string>
+    <string name="mortuary">MORTUARY</string>
+    <string name="stillNeedHelp">STILL NEED HELP?</string>
+    <string name="contactUs">CONTACT : 123456789</string>
+    <string name="stillNeedHelpALS">STILL NEED HELP? \nCONTACT : 123456789</string>
+    <string name="noMode">SELECT MODE !! </string>
+    <string name="selectMode">VEHICLE SELECTED :</string>
+    <string name="modeSetAmb"> AMBULABCE</string>
+    <string name="modeSetAirAmb">AIR AMBULANCE</string>
+    <string name="greet">Welcome, </string>
+
+    <string name="alsTitle">ADVANCE LIFE SUPPORT</string>
+    <string name="carNames">car names</string>
+    <string name="despALS"> description. </string>
+    <string name="alsFeatures">FEATURES :- </string>
+
+    <string name="blsTitle">BASIC LIFE SUPPORT</string>
+    <string name="ptTitle">PATIENT TRANSPORT</string>
+    <string name="transportCars">Transport cars</string>
+
+    <string name="mortuaryTitle">MORTUARY VAN</string>
+    <string name="mortTypes">Add types of vans</string>
+
+
+    <string name="needNow">NEED NOW</string>
+    <string name="fareEstimate">FARE ESTIMATE</string>
+    <string name="needLater">NEED LATER</string>
+
+    <string name="initStr">This is a string</string>
+    <string name="skip">SKIP</string>
+    <string name="clickForInfo">(CLICK ON THE TEXT BELOW)</string>
+    <string name="aboutUs">-- ABOUT US</string>
+
+
+    <string name="call">GET ME AN AMBULANCE !</string>
+    <string name="aboutInfo">An application that gets you an ambulance in 10 mintues tops !!Press back key to go back.</string>
+    <string name="intErr">"NO INTERNET CONNECTION.APP WON'T WORK.CONNECT TO NETWORK AND RESTART APP."</string>
+    <string name="locationErr">PLEASE CHECK IF YOU HAVE ALLOWED APPS TO ACCESS YOUR LOCATION.DO SETTINGS>LOCATION>ALLOW</string>
+
+
+    <string name="openMyLocation">OPEN HOSPITAL LOCATION</string>
+    <string name="getNearestHosp">GET NEAREST HOSPITAL</string>
+    <string name="title_activity_redundant">redundant</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_emergency_contacts">emergencyContacts</string>
+
+
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+
+
+    <string name="update_profile">UPDATE</string>
+    <string name="title_activity_mainscreen">mainscreen</string>
+
+
+
+    <string-array name="occurence">
+        <item>Once</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_entries">
+        <item>10 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="htextview-scale-0.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8c5d198ba4476f59b23e4595465e6e415d23cd17/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8c5d198ba4476f59b23e4595465e6e415d23cd17/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks/htextview-scale/0.1.1/6af443208db88b91311c08c505af2e79e860a3e0/htextview-scale-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

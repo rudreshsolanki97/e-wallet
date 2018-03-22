@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="htextview-typer-0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/15bba99c2fb8bbfddf859065f90f5760902e7d07/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/15bba99c2fb8bbfddf859065f90f5760902e7d07/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks/htextview-typer/0.1.1/6c910f5c4358231aca2941ed7b0c7e8cfaaf17e2/htextview-typer-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

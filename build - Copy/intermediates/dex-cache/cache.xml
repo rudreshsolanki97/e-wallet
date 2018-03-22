@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85837f57cf490d28e3b4b295b3359b7c2d3ef711">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a0f64ce103c5b2a0fa1806497a156776bdb8331d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.android\build-cache\b7729d394cdf5ef265983071e218ef59da1d2ab7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cc8a87f25be7b9c223257a58c061018fdbea656">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4cd1af10628ef849763e6d753e05558a6ddfeb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_14903a3fe9968f023194c6f527f213fb63aa02b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ambuler\CODE JOIN\MySignUpDraft\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.8.0_20bdb9cdb324916e60e877971a1d95a03db592e4\classes.dex" />
+    </item>
+
+</items>

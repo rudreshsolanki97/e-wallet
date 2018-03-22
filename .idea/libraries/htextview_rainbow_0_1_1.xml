@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="htextview-rainbow-0.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/158a72a9e22f5ffb8381564c5f866aa8950e911a/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/158a72a9e22f5ffb8381564c5f866aa8950e911a/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks/htextview-rainbow/0.1.1/5f9b2f77cdc718de1ca24940e17aa7b07b7873e7/htextview-rainbow-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

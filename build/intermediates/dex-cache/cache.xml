@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\libs\Ab.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af7496189919b4d17d8edff988421623653cc8b1">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\2\Ab_8a968d72111cc2b1537ebd5d19b8e0fa83f40061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ff0d24cdac692aaa8e2f863839d59fa0b135bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec776fd1a2b9f3dd8d65ce63230fac19b2b8607c">
+        <dex dex="D:\Users\User\Desktop\rudresh INTERN\Ccredit Suisse\final Submission\MySignUpDraft - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eb6446f47f7cb0ccf0622f6a506ec75df21f5b01\classes.dex" />
+    </item>
+
+</items>
